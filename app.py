@@ -30,7 +30,7 @@ st.markdown(
 # ----------------------------
 # Title & Description
 # ----------------------------
-st.title("🩸 Diabetes Prediction Using SVM")
+st.title("🩸 Diabetes Prediction App")
 st.write("""
 This app predicts whether a person *has diabetes or not* based on health parameters.
 Please enter the required details below:
